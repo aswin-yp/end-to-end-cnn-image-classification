@@ -1,9 +1,10 @@
-# Dataset Structure
+## Dataset Structure
 
 The dataset is not included in this repository due to size constraints.
 
 Expected structure:
 
+```text
 data/
 └── pizza_steak_sushi/
     ├── train/
@@ -14,7 +15,3 @@ data/
         ├── pizza/
         ├── steak/
         └── sushi/
-
-Each class contains:
-- 75 training images
-- 25 testing images
